@@ -18,5 +18,9 @@ devtools::install_github("DillonHammill/CytoRSuiteData")
 
 devtools::install_github("DillonHammill/CytoRSuite", build_vignettes = TRUE)
 
+
+
+
+
 #load packages
 library(CytoRSuite)
