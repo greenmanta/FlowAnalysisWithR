@@ -1,12 +1,12 @@
 # FlowAnalysisWithR
-Flow Cytometry Workflow using CytoRSuite
+Flow Cytometry Workflow using CytoRSuite and Spectre
 
-The tools website : https://github.com/DillonHammill/CytoRSuiteData
+CytoRSuite source : https://github.com/DillonHammill/CytoRSuiteData
+
+Spectre source : https://wiki.centenary.org.au/display/SPECTRE/Spectre+R+package+-+Home+Page
+
 
 Ibnu Ariyanto
 
-Ibnu.agus71@ui.ac.id
-
 Universitas Indonesia Cytomerty Network (UICN)
 
-Doctoral Program of Biomedical Science/ Virology & Cancer Pathobiology Research Center
